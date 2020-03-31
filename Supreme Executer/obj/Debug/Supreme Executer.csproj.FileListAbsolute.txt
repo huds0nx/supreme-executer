@@ -1,0 +1,13 @@
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\obj\Debug\Supreme Executer.csprojAssemblyReference.cache
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\obj\Debug\Supreme_Executer.Form1.resources
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\obj\Debug\Supreme_Executer.Properties.Resources.resources
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\obj\Debug\Supreme Executer.csproj.GenerateResource.cache
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\obj\Debug\Supreme Executer.csproj.CoreCompileInputs.cache
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\bin\Debug\Supreme Executer.exe.config
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\bin\Debug\Supreme Executer.exe
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\bin\Debug\Supreme Executer.pdb
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\bin\Debug\FastColoredTextBox.dll
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\bin\Debug\WeAreDevs_API.dll
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\obj\Debug\Supreme Executer.csproj.CopyComplete
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\obj\Debug\Supreme Executer.exe
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\obj\Debug\Supreme Executer.pdb

@@ -1,0 +1,13 @@
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\bin\Release\Supreme Executer.exe.config
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\bin\Release\Supreme Executer.exe
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\bin\Release\Supreme Executer.pdb
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\bin\Release\FastColoredTextBox.dll
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\bin\Release\WeAreDevs_API.dll
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\obj\Release\Supreme Executer.csprojAssemblyReference.cache
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\obj\Release\Supreme_Executer.Form1.resources
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\obj\Release\Supreme_Executer.Properties.Resources.resources
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\obj\Release\Supreme Executer.csproj.GenerateResource.cache
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\obj\Release\Supreme Executer.csproj.CoreCompileInputs.cache
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\obj\Release\Supreme Executer.csproj.CopyComplete
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\obj\Release\Supreme Executer.exe
+C:\Users\hudso\source\repos\Supreme Executer\Supreme Executer\obj\Release\Supreme Executer.pdb
