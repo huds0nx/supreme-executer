@@ -1,0 +1,2 @@
+game:GetService('Players').Name = "Players"
+game.Players.LocalPlayer.TeamValue.Value = "Police"

@@ -1,0 +1,33 @@
+local LocalScript = decompile(game:GetService("Players").LocalPlayer.PlayerScripts.LocalScript)
+
+local nitro_remote = "";
+local function infnitro(remote)
+ for i,v in next, getreg() do
+   if type(v) == "function" then
+     for i,v in next, debug.getupvalues(v) do
+       if type(v) == "table" and rawget(v, 'FireServer') then
+         v:FireServer(remote, -1999999)
+       end
+     end
+   end
+ end
+end
+
+local function GrabRemote(rgx)
+ return string.sub(string.gsub(string.sub(rgx, 13, -1), "", "") .. "", 1, 8)
+end
+
+local regex = "FireServer%b()"
+
+local index = 0;
+for v in LocalScript:gmatch(regex) do
+ index = index + 1;
+ if index ~= 1 then
+   local remote = GrabRemote(v)
+   if index - 1 == 2 then
+     nitro_remote = remote;
+   end
+ end
+end
+
+infnitro(nitro_remote)
