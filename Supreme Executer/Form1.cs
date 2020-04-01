@@ -115,43 +115,7 @@ namespace Supreme_Executer
             api.SendCommand("teleport " + username);
         }
 
-        //Changes UI text to say if the exploit is injected or not
-        //Challenge: Try making the attach button only show if the exploit is not injected
-        private void CheckInjected()
-        {
-            if (api.isAPIAttached())
-            {
-                //The exploit is injected and now ready to execute scripts/commands
-                txtIsInjected.Text = "Is Injected: true";
-            }
-            else
-            {
-                //The exploit is not injected... The client must inject
-                txtIsInjected.Text = "Is Injected: false";
-            }
-        }
 
-        //Check if the exploit is injected on load
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            CheckInjected();
-        }
-
-        //Check if the exploit is injected every 3 seconds
-        private void InjectedChecker_Tick(object sender, EventArgs e)
-        {
-            CheckInjected();
-        }
-
-        private void txtIsInjected_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void inputTPTo_TextChanged(object sender, EventArgs e)
-        {
-
-        }
 
         private void button11_Click(object sender, EventArgs e)
         {
@@ -226,6 +190,31 @@ namespace Supreme_Executer
         private void button20_Click(object sender, EventArgs e)
         {
             api.SendCommand("boxespnames");
+        }
+
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabPage2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void inputTPTo_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button21_Click_1(object sender, EventArgs e)
+        {
+            api.SendCommand("boxesp");
         }
     }
 }
